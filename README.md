@@ -10,8 +10,8 @@
 | 10/05 | Typhoon                    |                           |
 | 10/12 | Starting Simple / Typology |[Exercise 3](./Exercise-1012/README.md)|
 | 10/19 | Color Theory / Shapes      |                           |
-| 10/26 | Lecture off                |                           |
-| 11/02 | Midterm Presentation       |                           |
+| 10/26 | Lecture off                |[Exercise 4/5/6](./Exercise-1026/README.md)|
+| 11/02 | Midterm Presentation       |[Midterm Presentation](./Midterm%20Presnetation/README.md)|
 | 11/09 | CRAP                       |                           |
 | 11/16 | Better Poster              |                           |
 | 11/23 | Animations                 |                           |
